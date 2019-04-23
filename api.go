@@ -1,5 +1,5 @@
 // Example - demonstrates REST API server implementation tests.
-package main
+package godog
 
 import (
 	"encoding/json"
